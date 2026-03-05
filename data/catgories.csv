@@ -1,0 +1,212 @@
+category_id,display_name,parent_category_id,parent_display_name,level,path
+animals_pets,Animals & Pets,,,top,/categories/animals_pets
+animal_health,Animal Health,animals_pets,Animals & Pets,sub,/categories/animal_health
+animal_parks_zoo,Animal Parks & Zoo,animals_pets,Animals & Pets,sub,/categories/animal_parks_zoo
+cats_dogs,Cats & Dogs,animals_pets,Animals & Pets,sub,/categories/cats_dogs
+horses_riding,Horses & Riding,animals_pets,Animals & Pets,sub,/categories/horses_riding
+pet_services,Pet Services,animals_pets,Animals & Pets,sub,/categories/pet_services
+pet_stores,Pet Stores,animals_pets,Animals & Pets,sub,/categories/pet_stores
+beauty_wellbeing,Beauty & Well-being,,,top,/categories/beauty_wellbeing
+cosmetics_makeup,Cosmetics & Makeup,beauty_wellbeing,Beauty & Well-being,sub,/categories/cosmetics_makeup
+hair_care_styling,Hair Care & Styling,beauty_wellbeing,Beauty & Well-being,sub,/categories/hair_care_styling
+personal_care,Personal Care,beauty_wellbeing,Beauty & Well-being,sub,/categories/personal_care
+salons_clinics,Salons & Clinics,beauty_wellbeing,Beauty & Well-being,sub,/categories/salons_clinics
+tattoos_piercings,Tattoos & Piercings,beauty_wellbeing,Beauty & Well-being,sub,/categories/tattoos_piercings
+wellness_spa,Wellness & Spa,beauty_wellbeing,Beauty & Well-being,sub,/categories/wellness_spa
+yoga_meditation,Yoga & Meditation,beauty_wellbeing,Beauty & Well-being,sub,/categories/yoga_meditation
+business_services,Business Services,,,top,/categories/business_services
+administration_services,Administration & Services,business_services,Business Services,sub,/categories/administration_services
+associations_centers,Associations & Centers,business_services,Business Services,sub,/categories/associations_centers
+hr_recruiting,HR & Recruiting,business_services,Business Services,sub,/categories/hr_recruiting
+import_export,Import & Export,business_services,Business Services,sub,/categories/import_export
+it_communication,IT & Communication,business_services,Business Services,sub,/categories/it_communication
+office_space_supplies,Office Space & Supplies,business_services,Business Services,sub,/categories/office_space_supplies
+print_graphic_design,Print & Graphic Design,business_services,Business Services,sub,/categories/print_graphic_design
+research_development,Research & Development,business_services,Business Services,sub,/categories/research_development
+sales_marketing,Sales & Marketing,business_services,Business Services,sub,/categories/sales_marketing
+shipping_logistics,Shipping & Logistics,business_services,Business Services,sub,/categories/shipping_logistics
+wholesale,Wholesale,business_services,Business Services,sub,/categories/wholesale
+construction_manufactoring,Construction & Manufacturing,,,top,/categories/construction_manufactoring
+architects_engineers,Architects & Engineers,construction_manufactoring,Construction & Manufacturing,sub,/categories/architects_engineers
+building_materials,Building Materials,construction_manufactoring,Construction & Manufacturing,sub,/categories/building_materials
+chemicals_plastic,Chemicals & Plastic,construction_manufactoring,Construction & Manufacturing,sub,/categories/chemicals_plastic
+construction_services,Construction Services,construction_manufactoring,Construction & Manufacturing,sub,/categories/construction_services
+contractors_consultants,Contractors & Consultants,construction_manufactoring,Construction & Manufacturing,sub,/categories/contractors_consultants
+factory_equipment,Factory Equipment,construction_manufactoring,Construction & Manufacturing,sub,/categories/factory_equipment
+garden_landscaping,Garden & Landscaping,construction_manufactoring,Construction & Manufacturing,sub,/categories/garden_landscaping
+industrial_supplies,Industrial Supplies,construction_manufactoring,Construction & Manufacturing,sub,/categories/industrial_supplies
+manufacturing,Manufacturing,construction_manufactoring,Construction & Manufacturing,sub,/categories/manufacturing
+production_services,Production Services,construction_manufactoring,Construction & Manufacturing,sub,/categories/production_services
+tools_equipment,Tools & Equipment,construction_manufactoring,Construction & Manufacturing,sub,/categories/tools_equipment
+education_training,Education & Training,,,top,/categories/education_training
+colleges_universities,Colleges & Universities,education_training,Education & Training,sub,/categories/colleges_universities
+courses_classes,Courses & Classes,education_training,Education & Training,sub,/categories/courses_classes
+education_services,Education Services,education_training,Education & Training,sub,/categories/education_services
+language_learning,Language Learning,education_training,Education & Training,sub,/categories/language_learning
+music_theater_classes,Music & Theater Classes,education_training,Education & Training,sub,/categories/music_theater_classes
+school_high_school,School & High School,education_training,Education & Training,sub,/categories/school_high_school
+specials_schools,Specials Schools,education_training,Education & Training,sub,/categories/specials_schools
+vocational_training,Vocational Training,education_training,Education & Training,sub,/categories/vocational_training
+electronics_technology,Electronics & Technology,,,top,/categories/electronics_technology
+appliances_electronics,Appliances & Electronics,electronics_technology,Electronics & Technology,sub,/categories/appliances_electronics
+audio_visual,Audio & Visual,electronics_technology,Electronics & Technology,sub,/categories/audio_visual
+computers_phones,Computers & Phones,electronics_technology,Electronics & Technology,sub,/categories/computers_phones
+internet_software,Internet & Software,electronics_technology,Electronics & Technology,sub,/categories/internet_software
+repair_services,Repair & Services,electronics_technology,Electronics & Technology,sub,/categories/repair_services
+events_entertainment,Events & Entertainment,,,top,/categories/events_entertainment
+adult_entertainment,Adult Entertainment,events_entertainment,Events & Entertainment,sub,/categories/adult_entertainment
+childrens_entertainment,Children's Entertainment,events_entertainment,Events & Entertainment,sub,/categories/childrens_entertainment
+clubbing_nightlife,Clubbing & Nightlife,events_entertainment,Events & Entertainment,sub,/categories/clubbing_nightlife
+events_venues,Events & Venues,events_entertainment,Events & Entertainment,sub,/categories/events_venues
+gambling,Gambling,events_entertainment,Events & Entertainment,sub,/categories/gambling
+gaming,Gaming,events_entertainment,Events & Entertainment,sub,/categories/gaming
+museums_exibits,Museums & Exhibits,events_entertainment,Events & Entertainment,sub,/categories/museums_exibits
+music_movies,Music & Movies,events_entertainment,Events & Entertainment,sub,/categories/music_movies
+theater_opera,Theater & Opera,events_entertainment,Events & Entertainment,sub,/categories/theater_opera
+wedding_party,Wedding & Party,events_entertainment,Events & Entertainment,sub,/categories/wedding_party
+food_beverages_tobacco,"Food, Beverages & Tobacco",,,top,/categories/food_beverages_tobacco
+agriculture_produce,Agriculture & Produce,food_beverages_tobacco,"Food, Beverages & Tobacco",sub,/categories/agriculture_produce
+asian_grocery_stores,Asian Grocery Stores,food_beverages_tobacco,"Food, Beverages & Tobacco",sub,/categories/asian_grocery_stores
+bakery_pastry,Bakery & Pastry,food_beverages_tobacco,"Food, Beverages & Tobacco",sub,/categories/bakery_pastry
+beer_wine,Beer & Wine,food_beverages_tobacco,"Food, Beverages & Tobacco",sub,/categories/beer_wine
+beverages_liquor,Beverages & Liquor,food_beverages_tobacco,"Food, Beverages & Tobacco",sub,/categories/beverages_liquor
+candy_chocolate,Candy & Chocolate,food_beverages_tobacco,"Food, Beverages & Tobacco",sub,/categories/candy_chocolate
+coffee_tea,Coffee & Tea,food_beverages_tobacco,"Food, Beverages & Tobacco",sub,/categories/coffee_tea
+food_production,Food Production,food_beverages_tobacco,"Food, Beverages & Tobacco",sub,/categories/food_production
+fruits_vegetables,Fruits & Vegetables,food_beverages_tobacco,"Food, Beverages & Tobacco",sub,/categories/fruits_vegetables
+grocery_stores_markets,Grocery Stores & Markets,food_beverages_tobacco,"Food, Beverages & Tobacco",sub,/categories/grocery_stores_markets
+lunch_catering,Lunch & Catering,food_beverages_tobacco,"Food, Beverages & Tobacco",sub,/categories/lunch_catering
+meat_seafood_eggs,"Meat, Seafood & Eggs",food_beverages_tobacco,"Food, Beverages & Tobacco",sub,/categories/meat_seafood_eggs
+smoking_tobacco,Smoking & Tobacco,food_beverages_tobacco,"Food, Beverages & Tobacco",sub,/categories/smoking_tobacco
+health_medical,Health & Medical,,,top,/categories/health_medical
+clinics,Clinics,health_medical,Health & Medical,sub,/categories/clinics
+dental_services,Dental Services,health_medical,Health & Medical,sub,/categories/dental_services
+diagnostics_testing,Diagnostics & Testing,health_medical,Health & Medical,sub,/categories/diagnostics_testing
+doctors_surgeons,Doctors & Surgeons,health_medical,Health & Medical,sub,/categories/doctors_surgeons
+health_equipment,Health Equipment,health_medical,Health & Medical,sub,/categories/health_equipment
+hospital_emergency,Hospital & Emergency,health_medical,Health & Medical,sub,/categories/hospital_emergency
+medical_specialists,Medical Specialists,health_medical,Health & Medical,sub,/categories/medical_specialists
+mental_health,Mental Health,health_medical,Health & Medical,sub,/categories/mental_health
+pharmacy_medicine,Pharmacy & Medicine,health_medical,Health & Medical,sub,/categories/pharmacy_medicine
+physical_aids,Physical Aids,health_medical,Health & Medical,sub,/categories/physical_aids
+pregnancy_children,Pregnancy & Children,health_medical,Health & Medical,sub,/categories/pregnancy_children
+therapy_senior_health,Therapy & Senior Health,health_medical,Health & Medical,sub,/categories/therapy_senior_health
+vision_hearing,Vision & Hearing,health_medical,Health & Medical,sub,/categories/vision_hearing
+hobbies_crafts,Hobbies & Crafts,,,top,/categories/hobbies_crafts
+art_handicraft,Art & Handicraft,hobbies_crafts,Hobbies & Crafts,sub,/categories/art_handicraft
+astrology_numerology,Astrology & Numerology,hobbies_crafts,Hobbies & Crafts,sub,/categories/astrology_numerology
+fishing_hunting,Fishing & Hunting,hobbies_crafts,Hobbies & Crafts,sub,/categories/fishing_hunting
+hobbies,Hobbies,hobbies_crafts,Hobbies & Crafts,sub,/categories/hobbies
+metal_stone_glass_work,"Metal, Stone & Glass Work",hobbies_crafts,Hobbies & Crafts,sub,/categories/metal_stone_glass_work
+music_instruments,Music & Instruments,hobbies_crafts,Hobbies & Crafts,sub,/categories/music_instruments
+needlework_knitting,Needlework & Knitting,hobbies_crafts,Hobbies & Crafts,sub,/categories/needlework_knitting
+outdoor_activities,Outdoor Activities,hobbies_crafts,Hobbies & Crafts,sub,/categories/outdoor_activities
+painting_paper,Painting & Paper,hobbies_crafts,Hobbies & Crafts,sub,/categories/painting_paper
+home_garden,Home & Garden,,,top,/categories/home_garden
+bathroom_kitchen,Bathroom & Kitchen,home_garden,Home & Garden,sub,/categories/bathroom_kitchen
+cultural_goods,Cultural Goods,home_garden,Home & Garden,sub,/categories/cultural_goods
+decoration_interior,Decoration & Interior,home_garden,Home & Garden,sub,/categories/decoration_interior
+energy_heating,Energy & Heating,home_garden,Home & Garden,sub,/categories/energy_heating
+fabric_stationary,Fabric & Stationery,home_garden,Home & Garden,sub,/categories/fabric_stationary
+furniture_stores,Furniture Stores,home_garden,Home & Garden,sub,/categories/furniture_stores
+garden_pond,Garden & Pond,home_garden,Home & Garden,sub,/categories/garden_pond
+home_garden_services,Home & Garden Services,home_garden,Home & Garden,sub,/categories/home_garden_services
+home_goods_stores,Home Goods Stores,home_garden,Home & Garden,sub,/categories/home_goods_stores
+home_improvements,Home Improvements,home_garden,Home & Garden,sub,/categories/home_improvements
+home_services,Home Services,,,top,/categories/home_services
+cleaning_service_providers,Cleaning Service Providers,home_services,Home Services,sub,/categories/cleaning_service_providers
+craftsman,Craftsman,home_services,Home Services,sub,/categories/craftsman
+house_services,House Services,home_services,Home Services,sub,/categories/house_services
+house_sitting_security,House Sitting & Security,home_services,Home Services,sub,/categories/house_sitting_security
+moving_storage,Moving & Storage,home_services,Home Services,sub,/categories/moving_storage
+plumbing_sanitation,Plumbing & Sanitation,home_services,Home Services,sub,/categories/plumbing_sanitation
+repair_service_providers,Repair Service Providers,home_services,Home Services,sub,/categories/repair_service_providers
+legal_services_government,Legal Services & Government,,,top,/categories/legal_services_government
+customs_toll,Customs & Toll,legal_services_government,Legal Services & Government,sub,/categories/customs_toll
+government_department,Government Department,legal_services_government,Legal Services & Government,sub,/categories/government_department
+law_enforcement,Law Enforcement,legal_services_government,Legal Services & Government,sub,/categories/law_enforcement
+lawyers_attorneys,Lawyers & Attorneys,legal_services_government,Legal Services & Government,sub,/categories/lawyers_attorneys
+legal_service_providers,Legal Service Providers,legal_services_government,Legal Services & Government,sub,/categories/legal_service_providers
+libraries_archives,Libraries & Archives,legal_services_government,Legal Services & Government,sub,/categories/libraries_archives
+municipal_department,Municipal Department,legal_services_government,Legal Services & Government,sub,/categories/municipal_department
+registration_services,Registration Services,legal_services_government,Legal Services & Government,sub,/categories/registration_services
+media_publishing,Media & Publishing,,,top,/categories/media_publishing
+books_magazines,Books & Magazines,media_publishing,Media & Publishing,sub,/categories/books_magazines
+media_information,Media & Information,media_publishing,Media & Publishing,sub,/categories/media_information
+photography,Photography,media_publishing,Media & Publishing,sub,/categories/photography
+video_sound,Video & Sound,media_publishing,Media & Publishing,sub,/categories/video_sound
+money_insurance,Money & Insurance,,,top,/categories/money_insurance
+accounting_tax,Accounting & Tax,money_insurance,Money & Insurance,sub,/categories/accounting_tax
+banking_money,Banking & Money,money_insurance,Money & Insurance,sub,/categories/banking_money
+credit_debt_services,Credit & Debt Services,money_insurance,Money & Insurance,sub,/categories/credit_debt_services
+insurance,Insurance,money_insurance,Money & Insurance,sub,/categories/insurance
+investments_wealth,Investments & Wealth,money_insurance,Money & Insurance,sub,/categories/investments_wealth
+real_estate,Real Estate,money_insurance,Money & Insurance,sub,/categories/real_estate
+public_local_services,Public & Local Services,,,top,/categories/public_local_services
+employment_career,Employment & Career,public_local_services,Public & Local Services,sub,/categories/employment_career
+funeral_memorial,Funeral & Memorial,public_local_services,Public & Local Services,sub,/categories/funeral_memorial
+housing_associations,Housing Associations,public_local_services,Public & Local Services,sub,/categories/housing_associations
+kids_family,Kids & Family,public_local_services,Public & Local Services,sub,/categories/kids_family
+military_veteran,Military & Veteran,public_local_services,Public & Local Services,sub,/categories/military_veteran
+nature_environment,Nature & Environment,public_local_services,Public & Local Services,sub,/categories/nature_environment
+professional_organizations,Professional Organizations,public_local_services,Public & Local Services,sub,/categories/professional_organizations
+public_services_welfare,Public Services & Welfare,public_local_services,Public & Local Services,sub,/categories/public_services_welfare
+religious_institutions,Religious Institutions,public_local_services,Public & Local Services,sub,/categories/religious_institutions
+shelters_homes,Shelters & Homes,public_local_services,Public & Local Services,sub,/categories/shelters_homes
+waste_management,Waste Management,public_local_services,Public & Local Services,sub,/categories/waste_management
+restaurants_bars,Restaurants & Bars,,,top,/categories/restaurants_bars
+african_pacific_cuisine,African & Pacific Cuisine,restaurants_bars,Restaurants & Bars,sub,/categories/african_pacific_cuisine
+bars_cafes,Bars & Cafes,restaurants_bars,Restaurants & Bars,sub,/categories/bars_cafes
+chinese_korean_cuisine,Chinese & Korean Cuisine,restaurants_bars,Restaurants & Bars,sub,/categories/chinese_korean_cuisine
+european_cuisine,European Cuisine,restaurants_bars,Restaurants & Bars,sub,/categories/european_cuisine
+general_restaurants,General Restaurants,restaurants_bars,Restaurants & Bars,sub,/categories/general_restaurants
+japanese_cuisine,Japanese Cuisine,restaurants_bars,Restaurants & Bars,sub,/categories/japanese_cuisine
+mediterranean_cuisine,Mediterranean Cuisine,restaurants_bars,Restaurants & Bars,sub,/categories/mediterranean_cuisine
+middle_eastern_cuisine,Middle Eastern Cuisine,restaurants_bars,Restaurants & Bars,sub,/categories/middle_eastern_cuisine
+north_south_american_cuisine,North & South American Cuisine,restaurants_bars,Restaurants & Bars,sub,/categories/north_south_american_cuisine
+southeast_asian_cuisine,Southeast Asian Cuisine,restaurants_bars,Restaurants & Bars,sub,/categories/southeast_asian_cuisine
+takeaway,Takeaway,restaurants_bars,Restaurants & Bars,sub,/categories/takeaway
+vegetarian_diet,Vegetarian & Diet,restaurants_bars,Restaurants & Bars,sub,/categories/vegetarian_diet
+shopping_fashion,Shopping & Fashion,,,top,/categories/shopping_fashion
+accessories,Accessories,shopping_fashion,Shopping & Fashion,sub,/categories/accessories
+clothing_underwear,Clothing & Underwear,shopping_fashion,Shopping & Fashion,sub,/categories/clothing_underwear
+clothing_rental_repair,Clothing Rental & Repair,shopping_fashion,Shopping & Fashion,sub,/categories/clothing_rental_repair
+costume_wedding,Costume & Wedding,shopping_fashion,Shopping & Fashion,sub,/categories/costume_wedding
+jewelry_watches,Jewelry & Watches,shopping_fashion,Shopping & Fashion,sub,/categories/jewelry_watches
+malls_marketplaces,Malls & Marketplaces,shopping_fashion,Shopping & Fashion,sub,/categories/malls_marketplaces
+sports,Sports,,,top,/categories/sports
+ball_games,Ball Games,sports,Sports,sub,/categories/ball_games
+bat-and-ball_games,Bat-and-ball Games,sports,Sports,sub,/categories/bat-and-ball_games
+bowls_lawn_sports,Bowls & Lawn Sports,sports,Sports,sub,/categories/bowls_lawn_sports
+dancing_gymnastics,Dancing & Gymnastics,sports,Sports,sub,/categories/dancing_gymnastics
+equipment_associations,Equipment & Associations,sports,Sports,sub,/categories/equipment_associations
+extreme_sports,Extreme Sports,sports,Sports,sub,/categories/extreme_sports
+fitness_weight_lifting,Fitness & Weight Lifting,sports,Sports,sub,/categories/fitness_weight_lifting
+golf_ultimate,Golf & Ultimate,sports,Sports,sub,/categories/golf_ultimate
+hockey_ice_skating,Hockey & Ice Skating,sports,Sports,sub,/categories/hockey_ice_skating
+martial_arts_wrestling,Martial arts & Wrestling,sports,Sports,sub,/categories/martial_arts_wrestling
+outdoor_winter_sports,Outdoor & Winter Sports,sports,Sports,sub,/categories/outdoor_winter_sports
+shooting_target_sports,Shooting & Target Sports,sports,Sports,sub,/categories/shooting_target_sports
+swimming_water_sports,Swimming & Water Sports,sports,Sports,sub,/categories/swimming_water_sports
+tennis_racquet_sports,Tennis & Racquet Sports,sports,Sports,sub,/categories/tennis_racquet_sports
+travel_vacation,Travel & Vacation,,,top,/categories/travel_vacation
+accomodations_lodging,Accommodation & Lodging,travel_vacation,Travel & Vacation,sub,/categories/accomodations_lodging
+activities_tours,Activities & Tours,travel_vacation,Travel & Vacation,sub,/categories/activities_tours
+airlines_air_travel,Airlines & Air Travel,travel_vacation,Travel & Vacation,sub,/categories/airlines_air_travel
+hotels,Hotels,travel_vacation,Travel & Vacation,sub,/categories/hotels
+travel_agencies,Travel Agencies,travel_vacation,Travel & Vacation,sub,/categories/travel_agencies
+utilities,Utilities,,,top,/categories/utilities
+energy_power,Energy & Power,utilities,Utilities,sub,/categories/energy_power
+oil_fuel,Oil & Fuel,utilities,Utilities,sub,/categories/oil_fuel
+water_utilities,Water Utilities,utilities,Utilities,sub,/categories/water_utilities
+vehicles_transportation,Vehicles & Transportation,,,top,/categories/vehicles_transportation
+air_water_transport,Air & Water Transport,vehicles_transportation,Vehicles & Transportation,sub,/categories/air_water_transport
+airports_parking,Airports & Parking,vehicles_transportation,Vehicles & Transportation,sub,/categories/airports_parking
+auto_parts_wheels,Auto Parts & Wheels,vehicles_transportation,Vehicles & Transportation,sub,/categories/auto_parts_wheels
+bicycles,Bicycles,vehicles_transportation,Vehicles & Transportation,sub,/categories/bicycles
+cars_trucks,Cars & Trucks,vehicles_transportation,Vehicles & Transportation,sub,/categories/cars_trucks
+motorcycle_powersports,Motorcycle & Powersports,vehicles_transportation,Vehicles & Transportation,sub,/categories/motorcycle_powersports
+other_vehicles_trailers,Other Vehicles & Trailers,vehicles_transportation,Vehicles & Transportation,sub,/categories/other_vehicles_trailers
+taxis_public_transport,Taxis & Public Transport,vehicles_transportation,Vehicles & Transportation,sub,/categories/taxis_public_transport
+vehical_rental,Vehicle Rental,vehicles_transportation,Vehicles & Transportation,sub,/categories/vehical_rental
+vehicle_repair_fuel,Vehicle Repair & Fuel,vehicles_transportation,Vehicles & Transportation,sub,/categories/vehicle_repair_fuel
