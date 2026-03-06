@@ -1,8 +1,8 @@
 # Trustpilot Business Intelligence Report
 
-**Dataset:** 182,699 unique businesses across 21 industry sectors and 163 sub-categories
-**Source:** Trustpilot category pages — public business listings
-**Published dataset:** [Kaggle — Trustpilot](https://www.kaggle.com/datasets/ismetsemedov/trustpilot)
+- **Dataset:** 182,699 unique businesses across 21 industry sectors and 163 sub-categories
+- **Source:** Trustpilot category pages — public business listings
+- **Published dataset:** [Kaggle — Trustpilot](https://www.kaggle.com/datasets/ismetsemedov/trustpilot)
 
 ---
 
